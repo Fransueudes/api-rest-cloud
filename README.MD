@@ -111,4 +111,4 @@ Este projeto demonstra a aplicação dos seguintes conceitos de computação em 
 -   **Infraestrutura como Código (IaC)**: Todo o ambiente foi configurado com `docker-compose.yml`, permitindo rápida reprodução em qualquer máquina.
 -   **Emulação de Ambiente de Nuvem**: O LocalStack foi utilizado para simular os serviços da AWS, permitindo testes e desenvolvimento local.
 
-
+Fransueudes Alexandre Freitas
